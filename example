@@ -1,0 +1,100 @@
+.topnav a:hover {
+    background-color: #ddd;
+    color: rgb(187, 93, 93);
+    padding-bottom: 10px;
+    padding-top: 5px;
+
+  }
+div class="container1">
+                       <div class="image1">
+                        <h2>Top News</h2>
+                        <h5>Title description</h5>
+                        <div class="img" style="height:200px;">
+
+                        </div>
+                        <p>djgshjhkklikhjkjkkjahhjs</p></span>
+                      </div>
+
+                    </div>
+                
+
+                      <div class="main2">
+                        <h2>Entertainment</h2>
+                        <h5>Title description<h5>
+                        <div class="img" style="height:200px;">
+                        
+                        </div>
+                        <p>Some text..</p>
+                        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                      </div>
+                        
+                      <div class="main3">
+                        <h2>Lifestyle</h2>
+                        <h5>Title description</h5>
+                        <div class="img" style="height:200px;">
+
+                        </div>
+                        <p>Some text..</p>
+                        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                      </div>
+
+                      <div class="main4">
+                        <h2>News</h2>
+                        <h5>Title description</h5>
+                        <div class="img" style="height:200px;">
+
+                        </div>
+                        <p>Some text..</p>
+                        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                      </div>
+
+                      <div class="main5">
+                        <h2>Events</h2>
+                        <h5>Title description</h5>
+                        <div class="img" style="height:200px;">
+
+                        </div>
+                        <p>jjaghj,k.,ajsajks</p>
+                      </div>
+
+<ul>
+                <li><a href="">HOME</a></li>
+                <li><a href="">ABOUT US</a></li>
+                <li><a href="">ACADEMICS</a></li>
+                <li><a href="">COMMUNITY</a></li>
+                <li><a href="">GALLERY</a></li>
+                <li><a href="">CAMP</a></li>
+                <li><a href="">BLOG</a></li>
+                <li><a href="">CONTACT</a></li>
+           </ul> 
+
+#header {
+    margin: 0px;
+    padding-bottom: 10px;
+    height: 100px;
+    background-color: #270350;
+}
+
+ul {
+    list-style-type: none;
+    background-color: lightcoral;
+    margin-right: 20px;
+    margin-left: 90px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+  .topnav a {
+    color: white; 
+    font-size: 15px;
+}
